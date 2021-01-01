@@ -9,7 +9,7 @@ First I imported random, which is built into python, to allow you to generate ra
 
 Second through the use of the randint function. I created the variable used this function to generate a random number valuing between 1 and 10. 
 
-![Guessing_Game pictures](While Loop.png)
+![Guessing_Game_Pictures](While_Loop.png)
 Third I used a while loop with a nested if loop. When the while loop is True, the user is asked to guess a number 1 through 10. 
  - user input is taken from the guess variable and formated to ensure the the input is an integer. 
  -If: the user guesses to low, the program prints "Too Low"
