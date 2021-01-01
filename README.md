@@ -1,6 +1,6 @@
 # Python Guessing Game:
 <p align="center">
- ![Import](/Guessing_Game_Pictures/Import.png)
+ <img src="/Guessing_Game_Pictures/Import.png" alt="Import">
 </p>
 
 Using the random number generator, user input and a nested loop to create a simple guessing game using python. 
