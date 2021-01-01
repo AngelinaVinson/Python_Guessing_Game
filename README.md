@@ -1,6 +1,7 @@
 # Python Guessing Game:
-
-![Import](/Guessing_Game_Pictures/Import.png)
+<p align="center">
+ ![Import](/Guessing_Game_Pictures/Import.png)
+</p>
 
 Using the random number generator, user input and a nested loop to create a simple guessing game using python. 
 
@@ -21,4 +22,3 @@ Lastly the nested if loop allows the user the option to play again.
 -creating a third variable name play_again: the user is aked to input y or n
 -if: y is enter the game starts again
 -else: the code prints "Thank you for playing" and exits out of the while loop
-
