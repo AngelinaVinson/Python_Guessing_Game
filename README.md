@@ -1,10 +1,10 @@
 # Python Guessing Game:
 
-![Guessing_Game pictures](Import.png)
+![Import](/Guessing_ Game_Pictures/Import.png)
 
 Using the random number generator, user input and a nested loop to create a simple guessing game using python. 
 
-First I imported random, which is buildt into python, to allow you to generate random numbers.
+First I imported random, which is built into python, to allow you to generate random numbers.
 
 Second through the use of the randint function. I created the variable used this function to generate a random number valuing between 1 and 10. 
 
